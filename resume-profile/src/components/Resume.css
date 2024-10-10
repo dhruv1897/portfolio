@@ -1,0 +1,22 @@
+.resume-section {
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .resume-iframe {
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+  }
+  
+  .download-btn {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .download-btn:hover {
+    background-color: #0056b3;
+  }
+  

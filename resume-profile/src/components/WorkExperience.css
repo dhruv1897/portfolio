@@ -1,0 +1,41 @@
+.work-experience-box {
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .work-experience-box h2 {
+    color: #4a90e2;
+    text-align: center;
+    font-size: 1.8em;
+    margin-bottom: 20px;
+  }
+  
+  .job {
+    margin-bottom: 20px;
+  }
+  
+  .job h3 {
+    color: #333;
+    font-size: 1.4em;
+    margin-bottom: 5px;
+  }
+  
+  .job p {
+    color: #666;
+    font-size: 1.1em;
+  }
+  
+  .job ul {
+    padding-left: 20px;
+    list-style-type: disc;
+    color: #333;
+  }
+  
+  .job ul li {
+    margin-bottom: 5px;
+  }
+  
